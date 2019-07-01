@@ -15,7 +15,7 @@ cd dict-cracker.py
 ```
 python dict-cracker.py -h
 
-Usage: Usage : dictcracker.py [options] -f <passwd file> -d <dictionary file>
+Usage: dictcracker.py [options] -f <passwd file> -d <dictionary file>
 
 Options:
   --version             show program's version number and exit
