@@ -15,7 +15,7 @@ cd dict-cracker.py
 ```
 python dict-cracker.py -h
 
-Usage: dictcracker.py [options] -f <passwd file> -d <dictionary file>
+Usage:  dictcracker.py [options] -f <passwd file> -d <dictionary file>
 
 Options:
   --version             show program's version number and exit
@@ -23,6 +23,8 @@ Options:
   -f TFILE, --file=TFILE
                         specify the file name;
   -d TDICT, --dict=TDICT
+                        specify the dict file
+
 ```
 # Note
 The strings in the password file should be like same as the strings in the UNIX shadow file.<br/>
