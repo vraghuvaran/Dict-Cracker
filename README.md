@@ -9,7 +9,7 @@ To USE this script type the following Commands<br/>
 git clone https://github.com/vraghuvaran/Dict-Cracker.git
 ```
 ```
-cd dict-cracker.py
+cd Dict-Cracker
 ```
 # Usage
 ```
