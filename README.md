@@ -25,7 +25,7 @@ Options:
   -d TDICT, --dict=TDICT
 ```
 # Note
-The strings in the password file should be like the same the string in the UNIX shadow file.<br/>
+The strings in the password file should be like same as the strings in the UNIX shadow file.<br/>
 ```
 bob:$1$9691cSVC$zN/LWa6NNAYADAZXUMGIV0:15582:0:99999:7:::
 ```
