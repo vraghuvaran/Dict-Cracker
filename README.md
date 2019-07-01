@@ -11,12 +11,28 @@ git clone https://github.com/vraghuvaran/Dict-Cracker.git
 ```
 cd dict-cracker.py
 ```
-Now you can Execute Dict-Cracker by typing <br/>
+# Usage
 ```
-python dict-cracker.py -f <password file> -d <dictionary file>
+python dict-cracker.py -h
+
+Usage: Usage : dictcracker.py [options] -f <passwd file> -d <dictionary file>
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -f TFILE, --file=TFILE
+                        specify the file name;
+  -d TDICT, --dict=TDICT
 ```
 # Note
-The strings in the password file should be like the same the string in the UNIX shadow file<br/>
+The strings in the password file should be like the same the string in the UNIX shadow file.<br/>
 ```
 bob:$1$9691cSVC$zN/LWa6NNAYADAZXUMGIV0:15582:0:99999:7:::
+```
+Make sure that you have successfully Installed python2.
+
+# Contact
+For any Queries :)
+```
+Mail : oldmonk.h@gmail.com
 ```
