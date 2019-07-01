@@ -11,7 +11,8 @@ git clone https://github.com/vraghuvaran/Dict-Cracker.git
 ```
 cd dict-cracker.py
 ```
-<br/>Now you can Execute Dict-Cracker by typing <br/>
+Now you can Execute Dict-Cracker by typing <br/>
 ```
 python dict-cracker.py -f <password file> -d <dictionary file>
 ```
+# Note
