@@ -5,4 +5,6 @@ Dict Cracker is a simple UNIX password cracker written in python.<br/>
 <br/>You can also Run this in Termux.
 # How to Intall
 To USE this script type the following Commands<br/>
-
+'''
+https://github.com/vraghuvaran/Dict-Cracker.git
+'''
