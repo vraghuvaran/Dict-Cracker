@@ -13,7 +13,22 @@ cd Dict-Cracker
 ```
 # Usage
 ```
-python dict-cracker.py -h
+root@kali:~# python dict-cracker.py -h
+
+###################################################################################  
+#  __ __      __ __ __ ___ __   __ __   __     __ __    __ __         __ __  __    # 
+# |     \ |  /          |      /       |   \  /     \  /       |   / |      |   \  # 
+# |     | | |           |     |        |   | |       ||        |  /  |      |    | # 
+# |     | | |           |     |        |__ / |__ __ _||        | /   |__ __ |__ /  # 
+# |     | | |           |     |        |\    |       ||        | \   |      | \    # 
+# |__ __/ |  \__ __     |      \__ __  | \   |       | \__ __  |  \  |__ __ |  \   # 
+#                                                                                  # 
+###################################################################################  
+
+
+[>] Created By : raghuvaran_guptha
+[>] Version    : 1.0
+
 
 Usage:  dictcracker.py [options] -f <passwd file> -d <dictionary file>
 
@@ -24,6 +39,7 @@ Options:
                         specify the file name;
   -d TDICT, --dict=TDICT
                         specify the dict file
+
 
 ```
 # Note
